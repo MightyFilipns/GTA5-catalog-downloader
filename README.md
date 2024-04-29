@@ -1,4 +1,4 @@
-# GTA5-catalogdownloader
+# GTA5-catalog-downloader
 How to use
 
 The first argument passed specifies which catalogue to download
