@@ -1,4 +1,4 @@
-# GTA5-catalogdownloader-copy
+# GTA5-catalogdownloader
 How to use
 
 The first argument passed specifies which catalogue to download
